@@ -7,8 +7,7 @@ public abstract class Question {
 	protected String answer;
 	protected String[] bogi;
 
-	public Question(int partId, int numbering, String title, String[] bogi, String answer) {
-		this.partId = partId;
+	public Question(int numbering, String title, String[] bogi, String answer) {
 		this.numbering = numbering;
 		this.title = title;
 		this.bogi = bogi;
