@@ -128,12 +128,105 @@ public class ToeicRunner {
 		Part2 p17  = new Part2(17,"Mark your answer on your answer sheet.",bogi,"C");
 		System.out.println(p17);
 		
-		bogi[0]="Who is reponsible for updating the computers?";
-		bogi[1]="Most of the survey responses.";
-		bogi[2]="Becuase they're up to date.";
-		bogi[3]="John and Nick will be doing it.";
-		Part2 p18  = new Part2(18,"Mark your answer on your answer sheet.",bogi,"C");
+		bogi[0]="Some people from the workshop requested my business card.";
+		bogi[1]="The first session is a for small business owners.";
+		bogi[2]="Did you hand any out?";
+		bogi[3]="The seminar instructor came up bit late.";
+		Part2 p18  = new Part2(18,"Mark your answer on your answer sheet.",bogi,"B");
 		System.out.println(p18);
+		
+		bogi[0]="What was the memorial pot of the trip?";
+		bogi[1]="Oh, for pot of the trip.";
+		bogi[2]="Hiking throught the jungle.";
+		bogi[3]="I'll be traveling to egypt.";
+		Part2 p19  = new Part2(19,"Mark your answer on your answer sheet.",bogi,"B");
+		System.out.println(p19);
+		
+		bogi[0]="Our supplier was accidently underpaid.";
+		bogi[1]="Hmm, that's unusal.";
+		bogi[2]="I can unload the supplies.";
+		bogi[3]="Another minor pay raise.";
+		Part2 p20  = new Part2(20,"Mark your answer on your answer sheet.",bogi,"A");
+		System.out.println(p20);
+		
+		bogi[0]="When did you last take out the recycling bins.";
+		bogi[1]="Just this morning.";
+		bogi[2]="Only bottles and cans.";
+		bogi[3]="Once in a while.";
+		Part2 p21  = new Part2(21,"Mark your answer on your answer sheet.",bogi,"A");
+		System.out.println(p21);
+		
+		bogi[0]="Why do you want to refund for the product?";
+		bogi[1]="There are enough funs.";
+		bogi[2]="The television is scratched.";
+		bogi[3]="Production levels have reason.";
+		Part2 p22  = new Part2(22,"Mark your answer on your answer sheet.",bogi,"B");
+		System.out.println(p22);
+		
+		bogi[0]="Bicycles can be rented through the hotel,can't they?";
+		bogi[1]="You'll be staying in Room 341";
+		bogi[2]="We'll go cycling there the summer.";
+		bogi[3]="The front desk work a kind of assist with that.";
+		Part2 p23  = new Part2(23,"Mark your answer on your answer sheet.",bogi,"C");
+		System.out.println(p23);
+		
+		bogi[0]="How long will you be on tour to promote your novel?";
+		bogi[1]="At least until July.";
+		bogi[2]="For a promotional campaign.";
+		bogi[3]="The author is extremly popular.";
+		Part2 p24  = new Part2(24,"Mark your answer on your answer sheet.",bogi,"A");
+		System.out.println(p24);
+		
+		bogi[0]="Can you mow the lawn before you leave or are you in a hurry?";
+		bogi[1]="Yes, we sell lawn mowers.";
+		bogi[2]="Will it take more half an hour?";
+		bogi[3]="Don't worry I'll leave them on the table.";
+		Part2 p25  = new Part2(25,"Mark your answer on your answer sheet.",bogi,"B");
+		System.out.println(p25);
+		
+		bogi[0]="Isn't the accountant suppose to get in touch with you this afternoon?";
+		bogi[1]="She already contacted me.";
+		bogi[2]="No, both of the accounts.";
+		bogi[3]="My shift ends at 3 pm.";
+		Part2 p26  = new Part2(26,"Mark your answer on your answer sheet.",bogi,"A");
+		System.out.println(p26);
+		
+		bogi[0]="Where is the entrance to the complex's garage?";
+		bogi[1]="The space is heated during the winter.";
+		bogi[2]="A parking spot might be open.";
+		bogi[3]="I'm afraid I'm new to the building.";
+		Part2 p27  = new Part2(27,"Mark your answer on your answer sheet.",bogi,"C");
+		System.out.println(p27);
+		
+		bogi[0]="Do you know who is going to proofread the manuscript?";
+		bogi[1]="No, you didn't need to print any.";
+		bogi[2]="Sure, the deadline can be extended.";
+		bogi[3]="Kenneth typically edits our documents.";
+		Part2 p28  = new Part2(28,"Mark your answer on your answer sheet.",bogi,"C");
+		System.out.println(p28);
+		
+		bogi[0]="Please bring these binders to Ms.Liu in human resources.";
+		bogi[1]="We still sold out of binders.";
+		bogi[2]="When does she need them by?";
+		bogi[3]="I brought an appetizer to share.";
+		Part2 p29  = new Part2(29,"Mark your answer on your answer sheet.",bogi,"B");
+		System.out.println(p29);
+		
+		bogi[0]="Should we order two couches for the lobby or will one do.";
+		bogi[1]="A sofa and the chair would be best.";
+		bogi[2]="Okay, I can wait in the lobby.";
+		bogi[3]="Our funiture desinger has it.";
+		Part2 p30  = new Part2(30,"Mark your answer on your answer sheet.",bogi,"A");
+		System.out.println(p30);
+		
+		bogi[0]="Which of the store's displays has to be taken down.";
+		bogi[1]="Business is a bit slow right now.";
+		bogi[2]="Here, let me show you.";
+		bogi[3]="They'll put on a show a bit later.";
+		Part2 p31  = new Part2(31,"Mark your answer on your answer sheet.",bogi,"B");
+		System.out.println(p31);
+		
+		
 		
 		
 		

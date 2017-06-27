@@ -25,4 +25,18 @@ public class Part2 extends Question {
 		return answer;
 	}
 
+	public String toString() {
+		String s = "";
+		s += "----------------------------------------\n";
+		s += String.valueOf(numbering) + ". " + title + "\n";
+		for (int i = 0; i < bogi.length; i++) {
+			if (i == 0) {
+				s += "Q. " + bogi[i] + "\n";
+			} else
+				s += "(" + (char) (i + 64) + ") " + bogi[i] + "\n";
+		}
+		s += "----------------------------------------\n";
+		return s;
+	}
+
 }
