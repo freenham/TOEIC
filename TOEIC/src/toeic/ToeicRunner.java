@@ -286,6 +286,32 @@ public class ToeicRunner {
 		Part3 p37  = new Part3(37,"What does the man recommend?",script,bogi,"B");
 		System.out.println(p37);
 		
+		bogi[0]="A copy editor";
+		bogi[1]="A personal assistant";
+		bogi[2]="A film director";
+		bogi[3]="An organication head";
+		Part3 p38  = new Part3(38,"Who is the man?",script,bogi,"B");
+		System.out.println(p38);
+		
+		bogi[0]="He needs to revise an article.";
+		bogi[1]="He will chat with benefactors.";
+		bogi[2]="He has to attend a press conference.";
+		bogi[3]="He is leaving on a business trip.";
+		Part3 p39  = new Part3(39,"Why is the man unavailable?",script,bogi,"B");
+		System.out.println(p39);
+		
+		bogi[0]="This afternoon";
+		bogi[1]="This evening";
+		bogi[2]="Tomorrow morning";
+		bogi[3]="Tomorrow afternoon";
+		script = "W : Mr.Apdo. This is Morelin Nadia. A staff writer from curret fazi magazine. I'm working on a article"
+				+ " and I'd like to interview you by the piece. Would you be willing to unthroize your question about organization "
+				+ "you direct maditerian aid?"
+				+ "\n M : Certainly. But right now is not a good time for me. I'm about to holovideo conference with some doinus."
+				+ " I should be available to contact you tomorrow if that";
+		Part3 p40  = new Part3(40,"When will the woman most likely contact the man?",script,bogi,"B");
+		System.out.println(p40);
+		
 		
 		
 		
