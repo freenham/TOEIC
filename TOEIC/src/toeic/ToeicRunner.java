@@ -5,8 +5,7 @@ public class ToeicRunner {
 		
 		Part1[] p=new Part1[6];
 		String[] bogi=new String[4];
-		String[] bogi2=new String[3];
-		String question;
+		String script="";
 		
 		bogi[0] = "She is emptying in a bucket.";
 		bogi[1] = "She is grasping a sponge.";
@@ -225,6 +224,68 @@ public class ToeicRunner {
 		bogi[3]="They'll put on a show a bit later.";
 		Part2 p31  = new Part2(31,"Mark your answer on your answer sheet.",bogi,"B");
 		System.out.println(p31);
+		
+		//Part3 시작
+		bogi[0]="Hold an annual meeting";
+		bogi[1]="Offer seasonal cards";
+		bogi[2]="Expand a department";
+		bogi[3]="Promote a clothing collection";
+		Part3 p32  = new Part3(32,"What does the company plan to do?",script,bogi,"B");
+		System.out.println(p32);
+		
+		bogi[0]="A garment(옷) deisgn";
+		bogi[1]="A recruitment process";
+		bogi[2]="The woman's opinion";
+		bogi[3]="The woman's schedule";
+		Part3 p33  = new Part3(33,"What does the man inquire about?",script,bogi,"B");
+		System.out.println(p33);
+		
+		bogi[0]="Present some drafts";
+		bogi[1]="Select team members";
+		bogi[2]="Try on some clothing";
+		bogi[3]="Print some documents";
+		script = "W : Sam, Our company is going to expand its product offerings this fall"
+				+ " with a special seasonal collection of greeding cards."
+				+ " I'd like you to design them."
+				+ "\n M : Okay, do you currently have an opnion about"
+				+ " how you'd like cards to look. Or Will I have the final"
+				+ " say over their appearance."
+				+ "\n W : Aside from wanting them to incorporate the colors of autumn."
+				+ " Such as red, orange and yellow. I don't have a preference."
+				+ " Please show me your drafts next Friday.";
+		Part3 p34  = new Part3(34,"What does the man inquire about?",script,bogi,"B");
+		System.out.println(p34);
+		
+		bogi[0]="A business engagement";
+		bogi[1]="A social gathering";
+		bogi[2]="A sporting event";
+		bogi[3]="A cooking class";
+		Part3 p35  = new Part3(35,"What will probalby take place on Saturday?",script,bogi,"B");
+		System.out.println(p35);
+		
+		bogi[0]="She is able to attend an evnet.";
+		bogi[1]="She did not expect an invitation.";
+		bogi[2]="She wants to invite her sister.";
+		bogi[3]="She will check her schedule.";
+		Part3 p36  = new Part3(36,"What does the woman mean when she says, \"I have nothing planned\"?",script,bogi,"B");
+		System.out.println(p36);
+		
+		bogi[0]="Prociding a dish";
+		bogi[1]="Contacting some cateres";
+		bogi[2]="Showing up early";
+		bogi[3]="Writing down some directions";
+		script = "M : Rora, my roommates and I are inviting our friends and coworkers to"
+				+ " our house for a barbeque this Saturday. It will be great if you could "
+				+ " join us."
+				+ "\nW : I haev nothing planned that day. So why not? Were it be okay "
+				+ "to bring my sister along as well? She is visiting from out of town for"
+				+ " the weekend."
+				+ "\nM : Absolutely, by the way we're asking that guest shares some food "
+				+ "with the group. I suggest you bring a pasta salad since"
+				+ " the one you brought to the company potlot last year was so great.";
+		Part3 p37  = new Part3(37,"What does the man recommend?",script,bogi,"B");
+		System.out.println(p37);
+		
 		
 		
 		
