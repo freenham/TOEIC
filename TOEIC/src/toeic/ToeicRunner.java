@@ -274,15 +274,15 @@ public class ToeicRunner {
 		bogi[1]="Contacting some cateres";
 		bogi[2]="Showing up early";
 		bogi[3]="Writing down some directions";
-		script = "M : Rora, my roommates and I are inviting our friends and coworkers to"
-				+ " our house for a barbeque this Saturday. It will be great if you could "
+		script = "M : Laura, my roommates and I are inviting our friends and coworkers to"
+				+ " our house for a barbeque this Saturday. It'd be great if you could "
 				+ " join us."
-				+ "\nW : I haev nothing planned that day. So why not? Were it be okay "
-				+ "to bring my sister along as well? She is visiting from out of town for"
+				+ "\n W : I have nothing planned that day. So why not? Would it be okay "
+				+ "to bring my sister along as well? She's visiting from out of town for"
 				+ " the weekend."
-				+ "\nM : Absolutely, by the way we're asking that guest shares some food "
+				+ "\n M : Absolutely, by the way we're asking that guests share some food "
 				+ "with the group. I suggest you bring a pasta salad since"
-				+ " the one you brought to the company potlot last year was so great.";
+				+ " the one you brought to the company potluck last year was so great.";
 		Part3 p37  = new Part3(37,"What does the man recommend?",script,bogi,"B");
 		System.out.println(p37);
 		
