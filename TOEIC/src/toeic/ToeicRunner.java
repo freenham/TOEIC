@@ -308,7 +308,9 @@ public class ToeicRunner {
 				+ " and I'd like to interview you by the piece. Would you be willing to unthroize your question about organization "
 				+ "you direct maditerian aid?"
 				+ "\n M : Certainly. But right now is not a good time for me. I'm about to holovideo conference with some doinus."
-				+ " I should be available to contact you tomorrow if that";
+				+ " I should be available to contact you tomorrow if that work."
+				+ "\n W : I'll be attending appointment throughout the morning. But I should be back at my office 1:30pm. Why don't you call me back then?"
+				+ "\n M : Yes,that would be convenient for me.";
 		Part3 p40  = new Part3(40,"When will the woman most likely contact the man?",script,bogi,"B");
 		System.out.println(p40);
 		
