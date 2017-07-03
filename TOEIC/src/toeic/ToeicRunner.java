@@ -313,7 +313,7 @@ public class ToeicRunner {
 				+ "\n M : Yes,that would be convenient for me.";
 		Part3 p40  = new Part3(40,"When will the woman most likely contact the man?",script,bogi,"B");
 		System.out.println(p40);
-		
+		 
 		bogi[0]="At a car dealership";
 		bogi[1]="At a distrivution warehouse";
 		bogi[2]="At an auto mechanic shop";
@@ -332,10 +332,10 @@ public class ToeicRunner {
 		bogi[1]="Place an order for parts";
 		bogi[2]="Print out a purchase invoice";
 		bogi[3]="Clean some machinery";
-		script = "W : Have you been able to figure out what's wrong with the motorcycle that was dropped off our garage earlier today?"
+		script = "W : Have you been able to figure out what's wrong with the motorcycle that was dropped off at our garage earlier today?"
 				+ "\n M : I'm still trying to determine their problem. The motorcycle won't start so there might be weak connection to the battery."
 				+ "\n W : Do you think you'll finish your inspection within the next 30 minutes? I need to know any parts have to be purcahsed for the repairs. If so, I'd like to order them from our supplier before we close for the day."
-				+ "\n M : That shouldn't be in issue. I'll inform you of which components I'll need by 4:30 pm.";
+				+ "\n M : That shouldn't be an issue. I'll inform you of which components I'll need by 4:30 pm.";
 		Part3 p43  = new Part3(43,"What will the woman most likely do later today?",script,bogi,"B");
 		System.out.println(p43);
 		
