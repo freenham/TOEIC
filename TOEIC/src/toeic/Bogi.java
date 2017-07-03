@@ -11,6 +11,7 @@ public class Bogi {
 		this.b = b;
 		this.c = c;
 		this.d = d;
+		
 	}
 	
 	public Bogi(String a,String b,String c) {
