@@ -304,15 +304,40 @@ public class ToeicRunner {
 		bogi[1]="This evening";
 		bogi[2]="Tomorrow morning";
 		bogi[3]="Tomorrow afternoon";
-		script = "W : Mr.Apdo. This is Morelin Nadia. A staff writer from curret fazi magazine. I'm working on a article"
-				+ " and I'd like to interview you by the piece. Would you be willing to unthroize your question about organization "
-				+ "you direct maditerian aid?"
-				+ "\n M : Certainly. But right now is not a good time for me. I'm about to holovideo conference with some doinus."
-				+ " I should be available to contact you tomorrow if that work."
-				+ "\n W : I'll be attending appointment throughout the morning. But I should be back at my office 1:30pm. Why don't you call me back then?"
+		script = "W : Mr.Abdul. This is Amari Nadia. A staff writer for Current Affairs Magazine. I'm working on a article"
+				+ " and I'd like to interview you for the piece. Would you be willing to answer a few questions about organization "
+				+ "you direct, Mediterranean Aid?"
+				+ "\n M : Certainly. But right now is not a good time for me. I'm about to hold a conference with some donors."
+				+ " I should be available to contact you tomorrow if that would work."
+				+ "\n W : I'll be attending appointment throughout the morning. But I should be back at my office 1:30pm. Why don't I call you back then?"
 				+ "\n M : Yes,that would be convenient for me.";
 		Part3 p40  = new Part3(40,"When will the woman most likely contact the man?",script,bogi,"B");
 		System.out.println(p40);
+		
+		bogi[0]="At a car dealership";
+		bogi[1]="At a distrivution warehouse";
+		bogi[2]="At an auto mechanic shop";
+		bogi[3]="At a computer repair business";
+		Part3 p41  = new Part3(41,"Where do the speakers most likely work?",script,bogi,"B");
+		System.out.println(p41);
+		
+		bogi[0]="Diagnosing an issue";
+		bogi[1]="Finalizing a sale";
+		bogi[2]="Replacing a vehicle tire";
+		bogi[3]="Coordinating with a supplier";
+		Part3 p42  = new Part3(42,"What is the man currently working on?",script,bogi,"B");
+		System.out.println(p42);
+		
+		bogi[0]="Test drive a motorcycle";
+		bogi[1]="Place an order for parts";
+		bogi[2]="Print out a purchase invoice";
+		bogi[3]="Clean some machinery";
+		script = "W : Have you been able to figure out what's wrong with the motorcycle that was dropped off our garage earlier today?"
+				+ "\n M : I'm still trying to determine their problem. The motorcycle won't start so there might be weak connection to the battery."
+				+ "\n W : Do you think you'll finish your inspection within the next 30 minutes? I need to know any parts have to be purcahsed for the repairs. If so, I'd like to order them from our supplier before we close for the day."
+				+ "\n M : That shouldn't be in issue. I'll inform you of which components I'll need by 4:30 pm.";
+		Part3 p43  = new Part3(43,"What will the woman most likely do later today?",script,bogi,"B");
+		System.out.println(p43);
 		
 		
 		
