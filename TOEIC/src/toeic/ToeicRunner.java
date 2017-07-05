@@ -338,7 +338,30 @@ public class ToeicRunner {
 				+ "\n M : That shouldn't be an issue. I'll inform you of which components I'll need by 4:30 pm.";
 		Part3 p43  = new Part3(43,"What will the woman most likely do later today?",script,bogi,"B");
 		System.out.println(p43);
+
+		bogi[0]="A leather wallet";
+		bogi[1]="A restaurant menu";
+		bogi[2]="A piece of jewelry";
+		bogi[3]="Some eyewear";
+		Part3 p44  = new Part3(44,"What did the man find?",script,bogi,"B");
+		System.out.println(p44);
 		
+		bogi[0]="When belongings will be reclaimed";
+		bogi[1]="Why diners left a cafe";
+		bogi[2]="Whether an item belongs to the woman";
+		bogi[3]="What customers asked for";
+		Part3 p45  = new Part3(45,"What does the man inquire about?",script,bogi,"B");
+		System.out.println(p45);
+		
+		bogi[0]="They ate at the establishment earlier in the day.";
+		bogi[1]="They have already made reservations.";
+		bogi[2]="They provided some contact information.";
+		bogi[3]="They requested to be seated at a specific table.";
+		script = "M : Pardon me. I discover this pair of glaseses under neat the table you're just sitting at in side the restaurant. Are they by chance yours? or someone from your parties?"
+				+ "\n W : That definetly not mine. I use contact lenses. And to my knowledge, the people who I ate lunch with don't have glasses. They could belong to whoever dined at the before us."
+				+ "\n M : Hmm. That's certanly possible. I served the couple of businessman their priority cedding your group. One of them have glasses on when he arrived. So perhaps they're his.";
+		Part3 p46  = new Part3(46,"What does the man suggest about the businessman?",script,bogi,"B");
+		System.out.println(p46);
 		
 		
 		
