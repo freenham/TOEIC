@@ -387,7 +387,36 @@ public class ToeicRunner {
 				+ "\n M : In that case, I'd like to participate. It'd be great to have more oppurtunities to use the lens I was recently gited.";
 		Part3 p49  = new Part3(49,"What did the man recently receive?",script,bogi,"B");
 		System.out.println(p49);
+
+		bogi[0]="A contractor has not shown up";
+		bogi[1]="A request cannot be met";
+		bogi[2]="An aapliance has been damaged";
+		bogi[3]="A renoation project was canceled";
+		Part3 p50  = new Part3(50,"What is the problem?",script,bogi,"B");
+		System.out.println(p50);
 		
+		bogi[0]="It has to be specially ordered";
+		bogi[1]="It is improperly sized";
+		bogi[2]="It has gotten poor reviews.";
+		bogi[3]="It has to be professionally installed.";
+		Part3 p51  = new Part3(51,"What is mentioned about the E35 dishwasher?",script,bogi,"B");
+		System.out.println(p51);
+		
+		bogi[0]="Paying for a service";
+		bogi[1]="Getting a product discount";
+		bogi[2]="Changing a kitchen layout";
+		bogi[3]="Considering another item";
+		script = "M : Okay, miss Picket. I've looked over your kitchen."
+				+ "\n W : Do you have clear idea about what renovations are possible?"
+				+ "\n M : Yes, I can make most of their requested updeates with few exceptions."
+				+ "\n W : Which ones won't be possible?"
+				+ "\n M : Well. The E35 dishwasher that you want to install next to the sink isn't going to fit."
+				+ "\n W : Oh, are you sure? I really like that particular device."
+				+ "\n M : I'm afraid so. It's too tall to fit under the counter. You'll have to find the slightly smaller one."
+				+ "\n W : I see. Do you have any recommendations?"
+				+ "\n M : The ST300 from Vincent Appliances is a nice option. You should look into it.";
+		Part3 p52  = new Part3(52,"What does the man recommed?",script,bogi,"B");
+		System.out.println(p52);
 		
 		
 		
