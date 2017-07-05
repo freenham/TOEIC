@@ -406,11 +406,11 @@ public class ToeicRunner {
 		bogi[1]="Getting a product discount";
 		bogi[2]="Changing a kitchen layout";
 		bogi[3]="Considering another item";
-		script = "M : Okay, miss Picket. I've looked over your kitchen."
-				+ "\n W : Do you have clear idea about what renovations are possible?"
-				+ "\n M : Yes, I can make most of their requested updeates with few exceptions."
+		script = "M : Okay, miss Pickett. I've looked over your kitchen."
+				+ "\n W : Do you have clearer idea about what renovations are possible?"
+				+ "\n M : Yes, I can make most of the requested updeates, with a few exceptions."
 				+ "\n W : Which ones won't be possible?"
-				+ "\n M : Well. The E35 dishwasher that you want to install next to the sink isn't going to fit."
+				+ "\n M : Well. The E35 dishwasher that you want installed next to the sink isn't going to fit."
 				+ "\n W : Oh, are you sure? I really like that particular device."
 				+ "\n M : I'm afraid so. It's too tall to fit under the counter. You'll have to find the slightly smaller one."
 				+ "\n W : I see. Do you have any recommendations?"
