@@ -381,7 +381,7 @@ public class ToeicRunner {
 		bogi[1]="A schedule of future activities";
 		bogi[2]="A registration fomr for an organization";
 		bogi[3]="A piece of phtography equuipment";
-		script = "W : Clint, it's Marget Faulkner. I hope you doing well. I'm calling in regards to the photograph club the we discussed last week. Are you still interested in becoming a member?"
+		script = "W : Clint, it's Marget Faulkner. I hope you're doing well. I'm calling in regards to the photograph club the we discussed last week. Are you still interested in becoming a member?"
 				+ "\n M : That depends on when club members get together. My weekday scheldule is usally quite busy with work and fmailly obligations. However, I'm typically available on Saturday and Sunday."
 				+ "\n W : Meetings on photo sessions are held every other sunday evening. Plus, attendance is never mandatory. So you're welcome to come only when you have enough time. However, you should know that we have a one-time joining fee of 25 dallars."
 				+ "\n M : In that case, I'd like to participate. It'd be great to have more oppurtunities to use the lens I was recently gited.";
