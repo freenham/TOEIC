@@ -381,10 +381,10 @@ public class ToeicRunner {
 		bogi[1]="A schedule of future activities";
 		bogi[2]="A registration fomr for an organization";
 		bogi[3]="A piece of phtography equuipment";
-		script = "W : Cleant, it's photograph partner. I hope you doing well. I'm cooling in regard to the photograph club the we discussed last week. Are you still interested in becoming a member?"
-				+ "\n M : That depends on when club members get together. My week day scheldule is usally quite busy with work and fmailly obligations. However, I'm typically available on Saturday and Sunday."
+		script = "W : Clint, it's Marget Faulkner. I hope you doing well. I'm calling in regards to the photograph club the we discussed last week. Are you still interested in becoming a member?"
+				+ "\n M : That depends on when club members get together. My weekday scheldule is usally quite busy with work and fmailly obligations. However, I'm typically available on Saturday and Sunday."
 				+ "\n W : Meetings on photo sessions are held every other sunday evening. Plus, attendance is never mandatory. So you're welcome to come only when you have enough time. However, you should know that we have a one-time joining fee of 25 dallars."
-				+ "\n M : In that case, I'd like to participate. It will be great to have more oppurtunity to use the lens I was recently gited.";
+				+ "\n M : In that case, I'd like to participate. It'd be great to have more oppurtunities to use the lens I was recently gited.";
 		Part3 p49  = new Part3(49,"What did the man recently receive?",script,bogi,"B");
 		System.out.println(p49);
 		
