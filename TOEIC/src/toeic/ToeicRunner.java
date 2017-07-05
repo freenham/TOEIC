@@ -469,7 +469,7 @@ public class ToeicRunner {
 				+ "\n M : When will work on it begin?"
 				+ "\n W : Let me see. Well, this article says it started last month. It's supposed to take 2 year to finish."
 				+ "\n M : Well, I don't know if i want to live there. It's so closed to the airport."
-				+ "\n M : You're probably right. Flights all throughout the night. You wouldn't get a nice sleep.";
+				+ "\n M : You're probably right. Flights arrive all through the night - You wouldn't get a good night's sleep.";
 		Part3 p58  = new Part3(58,"What do the man implay about the construction?",script,bogi,"B");
 		System.out.println(p58);
 		
