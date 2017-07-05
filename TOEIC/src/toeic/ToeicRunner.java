@@ -357,9 +357,9 @@ public class ToeicRunner {
 		bogi[1]="They have already made reservations.";
 		bogi[2]="They provided some contact information.";
 		bogi[3]="They requested to be seated at a specific table.";
-		script = "M : Pardon me. I discover this pair of glaseses under neat the table you're just sitting at in side the restaurant. Are they by chance yours? or someone from your parties?"
-				+ "\n W : That definetly not mine. I use contact lenses. And to my knowledge, the people who I ate lunch with don't have glasses. They could belong to whoever dined at the before us."
-				+ "\n M : Hmm. That's certanly possible. I served the couple of businessman their priority cedding your group. One of them have glasses on when he arrived. So perhaps they're his.";
+		script = "M : Pardon me. I discover this pair of glaseses underneath the table you were just sitting at inside the restaurant. Are they by chance yours or someone from your party's?"
+				+ "\n W : Thay're definetly not mine. I use contact lenses. And to my knowledge, the people who I ate lunch with don't have glasses. They could belong to whoever dined at the table before us."
+				+ "\n M : Hmm. That's certanly possible. I served a couple of businessman there prior to seating your group. One of them had glasses on when he arrived, So perhaps they're his.";
 		Part3 p46  = new Part3(46,"What does the man suggest about the businessman?",script,bogi,"B");
 		System.out.println(p46);
 		
