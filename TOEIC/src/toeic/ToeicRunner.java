@@ -363,6 +363,30 @@ public class ToeicRunner {
 		Part3 p46  = new Part3(46,"What does the man suggest about the businessman?",script,bogi,"B");
 		System.out.println(p46);
 		
+		bogi[0]="To find out if the man can lead a club meeting";
+		bogi[1]="To determine if the man wants to join a group";
+		bogi[2]="To inquire about the time of a session";
+		bogi[3]="To provide information about a phtographer";
+		Part3 p47  = new Part3(47,"What is the purpose of the call?",script,bogi,"B");
+		System.out.println(p47);
+		
+		bogi[0]="Using a professional service";
+		bogi[1]="Expediting(신속히 처리하다) a shipment";
+		bogi[2]="Upgrade a lens";
+		bogi[3]="Joinging a club";
+		Part3 p48  = new Part3(48,"According to the woamn, what costs a fee?",script,bogi,"B");
+		System.out.println(p48);
+		
+		bogi[0]="A manual for a digital camera";
+		bogi[1]="A schedule of future activities";
+		bogi[2]="A registration fomr for an organization";
+		bogi[3]="A piece of phtography equuipment";
+		script = "W : Cleant, it's photograph partner. I hope you doing well. I'm cooling in regard to the photograph club the we discussed last week. Are you still interested in becoming a member?"
+				+ "\n M : That depends on when club members get together. My week day scheldule is usally quite busy with work and fmailly obligations. However, I'm typically available on Saturday and Sunday."
+				+ "\n W : Meetings on photo sessions are held every other sunday evening. Plus, attendance is never mandatory. So you're welcome to come only when you have enough time. However, you should know that we have a one-time joining fee of 25 dallars."
+				+ "\n M : In that case, I'd like to participate. It will be great to have more oppurtunity to use the lens I was recently gited.";
+		Part3 p49  = new Part3(49,"What did the man recently receive?",script,bogi,"B");
+		System.out.println(p49);
 		
 		
 		
