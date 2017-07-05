@@ -418,6 +418,34 @@ public class ToeicRunner {
 		Part3 p52  = new Part3(52,"What does the man recommed?",script,bogi,"B");
 		System.out.println(p52);
 		
+		bogi[0]="The time of a departure";
+		bogi[1]="Entertainment options";
+		bogi[2]="The reason for a delay";
+		bogi[3]="Ticket prices";
+		Part3 p53  = new Part3(53,"What does the woman inquire about?",script,bogi,"B");
+		System.out.println(p53);
+		
+		bogi[0]="A musical performance";
+		bogi[1]="A popular play";
+		bogi[2]="A magic show";
+		bogi[3]="A dance recital";
+		Part3 p54  = new Part3(54,"According to the woman, what took place yesterday?",script,bogi,"B");
+		System.out.println(p54);
+		
+		bogi[0]="Arrive early";
+		bogi[1]="Reserve a seat";
+		bogi[2]="Order dinner";
+		bogi[3]="Purchase tickets";
+		script = "W : Good afternoon James. I'm curious to know what enterment would be offered tonight?"
+				+ "\n M : This evening a musician will be performing in our auditorium on the second level of the criuse ship."
+				+ "\n W : Hopefully, the show will be comparable to the jazz music that we heared yesterday. That was wonderful."
+				+ "\n M : I think you'll find this evening entertainment equally as enjoyable."
+				+ "\n W : Excellent. And when will the show begin?"
+				+ "\n M : At 8 pm. After diner has been served. If you'd like watch it, I suggest you arriving at 7:30 pm. Because there is limited seating available and we expect a full audience."
+				+ "\n W : Sounds good. I'll do that.";
+		Part3 p55  = new Part3(55,"What does the man suggest the woman do?",script,bogi,"B");
+		System.out.println(p55);
+		
 		
 		
 	}
