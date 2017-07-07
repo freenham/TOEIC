@@ -543,13 +543,13 @@ public class ToeicRunner {
 		bogi[1]="In business suite";
 		bogi[2]="In executive suite";
 		bogi[3]="In penthouse suite";
-		script = "M : Hi, I'm calling in regrads to a reservation for my boss Ms. Chong. She'd liked to extend her stay in Singapore hotel."
+		script = "M : Hi, I'm calling in regrads to a reservation for my boss Ms. Erin Chong. She'd liked to extend her stay in Singapore at your hotel."
 				+ "\n W : Could I have a booking number please?"
 				+ "\n M : Certainly, it's BK3098"
-				+ "\n W : Just one moment please. A-Yes. I have the reservation inforamation. How many days she wants to extend for?"
+				+ "\n W : Just one moment please. A-Yes. I have the reservation inforamation. How many days does she wants to extend for?"
 				+ "\n M : Just for 2 additional nights."
-				+ "\n W : Unfortunetely, She won't be able to stay in the same room. As all of Business suites are booked. But we still have a couple of upgraded room available for 280$ per night."
-				+ "\n M : That's fine thanks. You can go ahead and confirm the booking.";
+				+ "\n W : Unfortunetely, She won't be able to stay in the same room. As all of Business suites are booked. But we still have a couple of upgraded room available for 218$ per night."
+				+ "\n M : That sounds fine thanks. You can go ahead and confirm the booking.";
 		Part3 p67  = new Part3(67,"Look at the graphic. Where will Ms.Chong stay on her last night in Singapore?",script,bogi,"B");
 		System.out.println(p67);
 		
