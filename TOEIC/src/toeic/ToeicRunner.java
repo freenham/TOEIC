@@ -605,5 +605,31 @@ public class ToeicRunner {
 		Part4 p73  = new Part4(73,"What will Kyle Grant do twice per week?",script,bogi,"B");
 		System.out.println(p73);
 		
+		bogi[0]="A holiday promotion";
+		bogi[1]="A charity event";
+		bogi[2]="An industry conference";
+		bogi[3]="A temporary closure";
+		Part4 p74  = new Part4(74,"What will end tomorrow?",script,bogi,"B");
+		System.out.println(p74);
+		
+		bogi[0]="A stack of baskets";
+		bogi[1]="A product display";
+		bogi[2]="A booth";
+		bogi[3]="A bin";
+		Part4 p75  = new Part4(75,"According to the speaker, what is situated next to a doorway(출입구)?",script,bogi,"B");
+		System.out.println(p75);
+		
+		bogi[0]="Provide free gifts";
+		bogi[1]="Extend a discount period";
+		bogi[2]="Train some volunteers";
+		bogi[3]="Hold a grand opening";
+		script = "Attention all shopers. Please note that tomorrow is the final day of Cedar Market charity drive."
+				+ "\n Any customers can participate in the drive which is ain't the supplying items to the merium pot food shelf."
+				+ "\n To contribute, simply buy candle boxes food and place in the bin next to front door."
+				+ "\n And remember see the market will give out small confermentry gift anyone who donates."
+				+ "\n So please take pot in the good course today.";
+		Part4 p76  = new Part4(76,"According to the speaker, what has Cedar Market promised to do?",script,bogi,"B");
+		System.out.println(p76);
+		
 	}
 }
