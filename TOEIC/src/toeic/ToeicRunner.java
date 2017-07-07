@@ -516,12 +516,12 @@ public class ToeicRunner {
 		bogi[1]="502";
 		bogi[2]="503";
 		bogi[3]="504";
-		script = "M : Have the other managers confirmed if they are attending the dinner with our client Mr.Sato this Friday?"
+		script = "M : Have the other managers confirmed if they're attending the dinner with our client Mr.Sato this Friday?"
 				+ "\n W : Yes. However, there's one problem. I couldn't get a table at Oak Steak House. I called this morning but it's fully booked."
-				+ "\n M : But Mr.Sato always wants to eat there when he comes to New York. Wait a minute. There is another restaurant that he likes. Sally Johnson in a counting mentioned it. But I can't remember the name."
-				+ "\n W : Okay. I'll call her. Is this directory accurate? I thought Sally moved to the 4th floor last week."
+				+ "\n M : But Mr.Sato always wants to eat there when he comes to New York. Wait a minute. There is another restaurant that he likes. Sally Johnson in accounting(회계) mentioned it. But I can't remember the name."
+				+ "\n W : Okay. I'll call her. Is this directory(안내 책자) accurate? I thought Sally moved to the 4th floor last week."
 				+ "\n M : You're right. She is in Phill Watson's old office. I guess our directory needs be updated."
-				+ "\n W : I see. Thanks for the clear offercation.";
+				+ "\n W : I see. Thanks for the clarification(설명).";
 		Part3 p64  = new Part3(64,"Loot at the graphic. Which extension number will the woman call?",script,bogi,"B");
 		System.out.println(p64);
 		
