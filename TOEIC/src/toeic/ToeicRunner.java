@@ -551,9 +551,8 @@ public class ToeicRunner {
 				+ "\n W : Unfortunetely, She won't be able to stay in the same room. As all of Business suites are booked. But we still have a couple of upgraded room available for 218$ per night."
 				+ "\n M : That sounds fine thanks. You can go ahead and confirm the booking.";
 		Part3 p67  = new Part3(67,"Look at the graphic. Where will Ms.Chong stay on her last night in Singapore?",script,bogi,"B");
-		
-		
 		System.out.println(p67);
+		
 		bogi[0]="Held a team meeting";
 		bogi[1]="Moved to a new workspace";
 		bogi[2]="Reviewed financial data";
@@ -580,6 +579,31 @@ public class ToeicRunner {
 				+ "\n M : Yes, that's a major concern. However, I expect them to drop considerably next month.";
 		Part3 p70  = new Part3(70,"Look at the graphic. When did the man begin a new job?",script,bogi,"B");
 		System.out.println(p70);
+		
+		bogi[0]="A special workshop";
+		bogi[1]="A town fundraiser";
+		bogi[2]="A department meeting";
+		bogi[3]="A facility tour";
+		Part4 p71  = new Part4(71,"What event are the listeners participating in?",script,bogi,"B");
+		System.out.println(p71);
+		
+		bogi[0]="Organized a celebration";
+		bogi[1]="Oversaw(감독하다) projects";
+		bogi[2]="Respond to some questions";
+		bogi[3]="Meet with town officials";
+		Part4 p72  = new Part4(72,"According to the speaker, what did Kyle Grant do?",script,bogi,"B");
+		System.out.println(p72);
+		
+		bogi[0]="Hand out lecture notes";
+		bogi[1]="Help with some repairs";
+		bogi[2]="Respond to some questions";
+		bogi[3]="Meet with town officials";
+		script = "Now. Um, as our last order of business for the day, I want to introduce Kyle Grant. Our guest speakers for the special public seminar."
+				+ "\n Kyle managed many environmental projects here in our town of Chestervile. So I'm sure he'll be able to share a lot of his work experience during his sessions."
+				+ "\n Kyle will also stay in this meeting room after our sessions on Monday and Wednesday for about an hour to answer any qeustions you have."
+				+ "\n I encourage you all to talk with him more than. He will happy to help you.";
+		Part4 p73  = new Part4(73,"What will Kyle Grant do twice per week?",script,bogi,"B");
+		System.out.println(p73);
 		
 	}
 }
