@@ -653,7 +653,7 @@ public class ToeicRunner {
 				+ "\n I just met with CEO. And she likes your suggestion to give bonuses to each quarter's top salesperson."
 				+ "\n She feels like this will um...this will be a great way to boost employee morale(사기)"
 				+ "\n Greg Sawyer will be the first staff member to receive this finicial incentive."
-				+ "\n Normally you will need to call recipentㄴ like him to tell about this."
+				+ "\n Normally you will need to call recipents like him to tell about this."
 				+ "\n But since you're currently away on business, I will call him today and let him know the good news."
 				+ "\n We can talk more about the developments next Monday if you have any questions.";
 		Part4 p79  = new Part4(79,"What does the speaker offer to do?",script,bogi,"B");
