@@ -576,7 +576,7 @@ public class ToeicRunner {
 				+ "\n M : Oh, it's wonderful. It's quite spacious(널찍한). Plus, I can see the SanDusky River from my desk."
 				+ "\n W : I'm glad to hear you like it. By the way, here's the report on company expenses that you requested. It details our costs up through the present month."
 				+ "\n M : Thanks. Can you give me a quick overview of the information it contains?"
-				+ "\n W : Sure, our expenses have risen dramtically of late. They're not as higher as they were when you assume your new position head accounting manager. But they're exceeding our sales volumne again."
+				+ "\n W : Sure, our expenses have risen dramtically of late. They're not as higher as they were when you assume your new position as head accounting manager. But they're exceeding our sales volumne again."
 				+ "\n M : Yes, that's a major concern. However, I expect them to drop considerably next month.";
 		Part3 p70  = new Part3(70,"Look at the graphic. When did the man begin a new job?",script,bogi,"B");
 		System.out.println(p70);
