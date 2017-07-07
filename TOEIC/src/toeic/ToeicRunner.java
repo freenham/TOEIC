@@ -649,7 +649,13 @@ public class ToeicRunner {
 		bogi[1]="Increase quarterly sales(분기별 매출액)";
 		bogi[2]="Pass on some news(소식을 전해주다)";
 		bogi[3]="Provide financial advice";
-		script = "";
+		script = "Hey Jullie. It's Peter Swift. I'm calling regarding your idea to implement bonus system."
+				+ "\n I just mapped CEO. And she likes your suggestion to give bonuses to each quarter's top sales person."
+				+ "\n She feels like this will um...this will be a great way to boost employee morrow"
+				+ "\n Greg Sawyer will be the first staff member to receive this finicial incentive."
+				+ "\n Normally you will need to call recipent like him to tell about this."
+				+ "\n But since you're currently who I am business, I will call him today and let him know the good news."
+				+ "\n We can talk more about the developments next Monday if you have any questions.";
 		Part4 p79  = new Part4(79,"What does the speaker offer to do?",script,bogi,"B");
 		System.out.println(p79);
 		
