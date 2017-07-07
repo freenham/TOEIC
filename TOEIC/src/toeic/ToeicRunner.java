@@ -623,11 +623,11 @@ public class ToeicRunner {
 		bogi[1]="Extend a discount period";
 		bogi[2]="Train some volunteers";
 		bogi[3]="Hold a grand opening";
-		script = "Attention all shopers. Please note that tomorrow is the final day of Cedar Market charity drive."
-				+ "\n Any customers can participate in the drive which is ain't the supplying items to the merium pot food shelf."
-				+ "\n To contribute, simply buy candle boxes food and place in the bin next to front door."
-				+ "\n And remember see the market will give out small confermentry gift anyone who donates."
-				+ "\n So please take pot in the good course today.";
+		script = "Attention all shoppers. Please note that tomorrow is the final day of Cedar Market charity drive."
+				+ "\n Any customers can participate in the drive, which is aimed at supplying items to the Merriam Park Food Shelf."
+				+ "\n To contribute, simply buy canned or boxed food and place them in the bin next to front door."
+				+ "\n And remember Cendar Market will give out a small complimentary(무료의 또는 칭찬하는) gift to anyone who donates."
+				+ "\n So please take part in the good cause(사회적 조직) today.";
 		Part4 p76  = new Part4(76,"According to the speaker, what has Cedar Market promised to do?",script,bogi,"B");
 		System.out.println(p76);
 		
