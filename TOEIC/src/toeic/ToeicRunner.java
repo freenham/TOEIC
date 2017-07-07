@@ -498,6 +498,33 @@ public class ToeicRunner {
 		Part3 p61  = new Part3(61,"Why are the speakers unable to do the cooking today?",script,bogi,"B");
 		System.out.println(p61);
 		
+		bogi[0]="A client complaint";
+		bogi[1]="A business dinner";
+		bogi[2]="An accounting error";
+		bogi[3]="An invitation confirmation";
+		Part3 p62  = new Part3(62,"What are the speakers mainly discussing?",script,bogi,"B");
+		System.out.println(p62);
+		
+		bogi[0]="Make a reservation";
+		bogi[1]="Contact a customer";
+		bogi[2]="Call a restaurant";
+		bogi[3]="Hire an assistant";
+		Part3 p63  = new Part3(63,"What was the woman unable to do this morning?",script,bogi,"B");
+		System.out.println(p63);
+		
+		bogi[0]="501";
+		bogi[1]="502";
+		bogi[2]="503";
+		bogi[3]="504";
+		script = "M : Have the other managers confirmed if they are attending the dinner with our client Mr.Sato this Friday?"
+				+ "\n W : Yes. However, there's one problem. I couldn't get a table at Oak Steak House. I called this morning but it's fully booked."
+				+ "\n M : But Mr.Sato always wants to eat there when he comes to New York. Wait a minute. There is another restaurant that he likes. Sally Johnson in a counting mentioned it. But I can't remember the name."
+				+ "\n W : Okay. I'll call her. Is this directory accurate? I thought Sally moved to the 4th floor last week."
+				+ "\n M : You're right. She is in Phill Watson's old office. I guess our directory needs be updated."
+				+ "\n W : I see. Thanks for the clear offercation.";
+		Part3 p64  = new Part3(64,"Loot at the graphic. Which extension number will the woman call?",script,bogi,"B");
+		System.out.println(p64);
+		
 		
 	}
 }
