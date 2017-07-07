@@ -580,7 +580,7 @@ public class ToeicRunner {
 		Part3 p70  = new Part3(70,"Look at the graphic. When did the man begin a new job?",script,bogi,"B");
 		System.out.println(p70);
 		
-		bogi[0]="A special workshop";
+		bogi[0]="A special workshop(특별연수회)";
 		bogi[1]="A town fundraiser";
 		bogi[2]="A department meeting";
 		bogi[3]="A facility tour";
