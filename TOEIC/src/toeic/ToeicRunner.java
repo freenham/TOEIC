@@ -473,6 +473,31 @@ public class ToeicRunner {
 		Part3 p58  = new Part3(58,"What do the man implay about the construction?",script,bogi,"B");
 		System.out.println(p58);
 		
+		bogi[0]="The number of guests";
+		bogi[1]="The catering fees";
+		bogi[2]="The status of a delivery";
+		bogi[3]="The schedule of an event";
+		Part3 p59  = new Part3(59,"What does the woman ask the man about?",script,bogi,"B");
+		System.out.println(p59);
+		
+		bogi[0]="Provide an ingredient list";
+		bogi[1]="Refund a fee";
+		bogi[2]="Send some invitations";
+		bogi[3]="Expedite the shipping";
+		Part3 p60  = new Part3(60,"According to the man, what will the store do?",script,bogi,"B");
+		System.out.println(p60);
+		
+		bogi[0]="An event was delayed.";
+		bogi[1]="They don't have supplies.";
+		bogi[2]="They need to buy ingredients.";
+		bogi[3]="The food will be fresher tomorrow";
+		script = "W : Has our order of kitchen's supplies being delivered? We have a large party to cater(음식을 공급하다) tomorrow night. And I want to to get some of the cooking done today."
+				+ "\n M : Not yet. I called the store this morning. They told me that they was dealyed with their delivery truck. But these supplies should be here today. They aplogized and said they would refund our delivery fee."
+				+ "\n W : Were you told what time the order will get here?"
+				+ "\n M : By 7 pm. So we can't do the cooking today. We may have to come in early tomorrow.";
+		Part3 p61  = new Part3(61,"Why are the speakers unable to do the cooking today?",script,bogi,"B");
+		System.out.println(p61);
+		
 		
 	}
 }
