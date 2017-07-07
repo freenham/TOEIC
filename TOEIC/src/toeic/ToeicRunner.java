@@ -551,7 +551,35 @@ public class ToeicRunner {
 				+ "\n W : Unfortunetely, She won't be able to stay in the same room. As all of Business suites are booked. But we still have a couple of upgraded room available for 218$ per night."
 				+ "\n M : That sounds fine thanks. You can go ahead and confirm the booking.";
 		Part3 p67  = new Part3(67,"Look at the graphic. Where will Ms.Chong stay on her last night in Singapore?",script,bogi,"B");
+		
+		
 		System.out.println(p67);
+		bogi[0]="Held a team meeting";
+		bogi[1]="Moved to a new workspace";
+		bogi[2]="Reviewed financial data";
+		bogi[3]="Submitted his resume";
+		Part3 p68  = new Part3(68,"What did the man recently do?",script,bogi,"B");
+		System.out.println(p68);
+		
+		bogi[0]="Create some diagrams";
+		bogi[1]="Select an assistant";
+		bogi[2]="Write a report";
+		bogi[3]="Summarize some data";
+		Part3 p69  = new Part3(69,"What does the man ask the woman to do?",script,bogi,"B");
+		System.out.println(p69);
+		
+		bogi[0]="In February";
+		bogi[1]="In March";
+		bogi[2]="In May";
+		bogi[3]="In June";
+		script = "W : Hey, Danniel. How do you feel about your new office?"
+				+ "\n M : Oh, it's wonderful. It's quite specious. Plus, I can see the Sandaski river from my desk."
+				+ "\n W : I'm glad to hear you like it. By the way, here's the report on company expenses that you requested. It details our cost tthup? through the present month."
+				+ "\n M : Thanks. Can you give me a quick overview of the information it contains?"
+				+ "\n W : Sure, our expenses have risen dramtically of late. Then, not as higher as when you assume your new position had counting manager. But they're exceeding our sales volumne again."
+				+ "\n M : Yes, that's a amazing concern. However, I expect them to drop considerably next month.";
+		Part3 p70  = new Part3(70,"Look at the graphic. When did the man begin a new job?",script,bogi,"B");
+		System.out.println(p70);
 		
 	}
 }
