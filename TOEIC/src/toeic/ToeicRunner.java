@@ -491,8 +491,8 @@ public class ToeicRunner {
 		bogi[1]="They don't have supplies.";
 		bogi[2]="They need to buy ingredients.";
 		bogi[3]="The food will be fresher tomorrow";
-		script = "W : Has our order of kitchen's supplies being delivered? We have a large party to cater(음식을 공급하다) tomorrow night. And I want to to get some of the cooking done today."
-				+ "\n M : Not yet. I called the store this morning. They told me that they was dealyed with their delivery truck. But these supplies should be here today. They aplogized and said they would refund our delivery fee."
+		script = "W : Has our order of kitchen supplies been delivered? We have a large party to cater(음식을 공급하다) tomorrow night. And I wanted to to get some of the cooking done today."
+				+ "\n M : Not yet. I called the store this morning. They told me that there was dealyed with their delivery truck. But the supplies should be here today. They aplogized and said they would refund our delivery fee."
 				+ "\n W : Were you told what time the order will get here?"
 				+ "\n M : By 7 pm. So we can't do the cooking today. We may have to come in early tomorrow.";
 		Part3 p61  = new Part3(61,"Why are the speakers unable to do the cooking today?",script,bogi,"B");
