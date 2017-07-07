@@ -599,9 +599,9 @@ public class ToeicRunner {
 		bogi[2]="Respond to some questions";
 		bogi[3]="Meet with town officials";
 		script = "Now. Um, as our last order of business for the day, I want to introduce Kyle Grant. Our guest speakers for the special public seminar."
-				+ "\n Kyle managed many environmental projects here in our town of Chestervile. So I'm sure he'll be able to share a lot of his work experience during his sessions."
-				+ "\n Kyle will also stay in this meeting room after our sessions on Monday and Wednesday for about an hour to answer any qeustions you have."
-				+ "\n I encourage you all to talk with him more than. He will happy to help you.";
+				+ "\n Kyle managed many environmental projects here in our town of Chestervile. So I'm sure he'll be able to share a lot of his work experience during these sessions."
+				+ "\n Kyle will also stay in this meeting room after our sessions on Mondays and Wednesdays for about an hour to answer any qeustions you have."
+				+ "\n I encourage you all to talk with him more than. He'll be happy to help you.";
 		Part4 p73  = new Part4(73,"What will Kyle Grant do twice per week?",script,bogi,"B");
 		System.out.println(p73);
 		
