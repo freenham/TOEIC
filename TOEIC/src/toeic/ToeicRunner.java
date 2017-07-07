@@ -525,6 +525,33 @@ public class ToeicRunner {
 		Part3 p64  = new Part3(64,"Loot at the graphic. Which extension number will the woman call?",script,bogi,"B");
 		System.out.println(p64);
 		
+		bogi[0]="Book a business event at a hotel";
+		bogi[1]="Lengthen a stay for a superior";
+		bogi[2]="Upgrade a currently booked accommodation";
+		bogi[3]="Rend an extra room for a staff member";
+		Part3 p65  = new Part3(65,"What does the man want the woman to do?",script,bogi,"B");
+		System.out.println(p65);
+		
+		bogi[0]="A reservation code";
+		bogi[1]="A phone number";
+		bogi[2]="A company address";
+		bogi[3]="An arrival date";
+		Part3 p66  = new Part3(66,"What information does the woman require?",script,bogi,"B");
+		System.out.println(p66);
+		
+		bogi[0]="In regular";
+		bogi[1]="In business suite";
+		bogi[2]="In executive suite";
+		bogi[3]="In penthouse suite";
+		script = "M : Hi, I'm calling in regrads to a reservation for my boss Ms. Chong. She'd liked to extend her stay in Singapore hotel."
+				+ "\n W : Could I have a booking number please?"
+				+ "\n M : Certainly, it's BK3098"
+				+ "\n W : Just one moment please. A-Yes. I have the reservation inforamation. How many days she wants to extend for?"
+				+ "\n M : Just for 2 additional nights."
+				+ "\n W : Unfortunetely, She won't be able to stay in the same room. As all of Business suites are booked. But we still have a couple of upgraded room available for 280$ per night."
+				+ "\n M : That's fine thanks. You can go ahead and confirm the booking.";
+		Part3 p67  = new Part3(67,"Look at the graphic. Where will Ms.Chong stay on her last night in Singapore?",script,bogi,"B");
+		System.out.println(p67);
 		
 	}
 }
