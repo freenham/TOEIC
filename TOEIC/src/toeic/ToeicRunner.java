@@ -631,5 +631,27 @@ public class ToeicRunner {
 		Part4 p76  = new Part4(76,"According to the speaker, what has Cedar Market promised to do?",script,bogi,"B");
 		System.out.println(p76);
 		
+		bogi[0]="Agreed to accept a position";
+		bogi[1]="Finalized an important business deal";
+		bogi[2]="Met with a corportate executive";
+		bogi[3]="Proposed implementing(시행하다) a system";
+		Part4 p77  = new Part4(77,"What did the listener recently do?",script,bogi,"B");
+		System.out.println(p77);
+		
+		bogi[0]="He is a new employee.";
+		bogi[1]="He is an inaugural recipient(최초의 수령인).";
+		bogi[2]="He will be offered a new job.";
+		bogi[3]="He will be taking a business trip.";
+		Part4 p78  = new Part4(78,"What is mentioned about Greg Sawyer?",script,bogi,"B");
+		System.out.println(p78);
+		
+		bogi[0]="Assemble a team of emplyees";
+		bogi[1]="Increase quarterly sales(분기별 매출액)";
+		bogi[2]="Pass on some news(소식을 전해주다)";
+		bogi[3]="Provide financial advice";
+		script = "";
+		Part4 p79  = new Part4(79,"What does the speaker offer to do?",script,bogi,"B");
+		System.out.println(p79);
+		
 	}
 }
