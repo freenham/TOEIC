@@ -113,6 +113,10 @@ public class Script {
 				+ "(A) No, I was busy yesterday.\n"
 				+ "(B) Sure I'm free to do it then.\n"
 				+ "(C) In the old office building.\n";
+		script[29] = "Q. Why don't we talk about the budget later? \n"
+				+ "(A) We came early.\n"
+				+ "(B) Okay let's meet talk to the lanch.\n"
+				+ "(C) I'll key to your destination.\n";
 	}
 
 	public String toString() {
