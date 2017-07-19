@@ -101,6 +101,10 @@ public class Script {
 				+ "(A) He took the train.\n"
 				+ "(B) It hasn't been decided yet.\n"
 				+ "(C) He's a good conductor.\n";
+		script[26] = "Q. Are these devices on displayed at the trade show?\n"
+				+ "(A) It was a amazing show.\n"
+				+ "(B) All device is planned for you.\n"
+				+ "(C) Yes, they're at all booth.\n";
 		
 	}
 
