@@ -122,9 +122,9 @@ public class Script {
 				+ "(B) I'd exercise some caution.\n"
 				+ "(C) Will you have enough time?.\n";
 		script[31] = "Q. Why did Mr.Lopez move to another department.\n"
-				+ "(A) Ahead to the department store please.\n"
+				+ "(A) Head to the department store please.\n"
 				+ "(B) He was promoted.\n"
-				+ "(C) I went the oversea division.\n";
+				+ "(C) I went to the overseas division.\n";
 	}
 
 	public String toString() {
