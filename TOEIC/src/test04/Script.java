@@ -8,10 +8,10 @@ public class Script {
 		for(int i=0;i<100;i++) {
 			script[i]="";
 		}
-		script[0] = "(A) He's washing up his face.\n"
-				+ "(B) He's drinking from a fountain.\n"
+		script[0] = "(A) He's washing off(up x) his face.\n"
+				+ "(B) He's drinking from a fountain(분수).\n"
 				+ "(C) He's emptying water from a bottle.\n"
-				+ "(D) He's turning off apposite.\n";
+				+ "(D) He's turning off a faucet(수도꼭지).\n";
 	}
 	
 	public String toString(){
