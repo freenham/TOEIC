@@ -97,6 +97,10 @@ public class Script {
 				+ "(A) Post it on the bluletin board(전자 게시판).\n"
 				+ "(B) Yes, just in the morning.\n"
 				+ "(C) He wants to complie his notes.\n";
+		script[25] = "Q. Who is conducting the training?\n"
+				+ "(A) He took the train.\n"
+				+ "(B) It hasn't been decided yet.\n"
+				+ "(C) He's a good conductor.\n";
 		
 	}
 
