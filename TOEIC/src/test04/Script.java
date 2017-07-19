@@ -55,7 +55,7 @@ public class Script {
 				+ "(C) You have a greate abilities.\n";
 		script[14] = "Q. Did we order the new equitment already?\n"
 				+ "(A) It will be delivered this afternoon.\n"
-				+ "(B) It is a factory machinery.\n"
+				+ "(B) It is factory machinery.\n"
 				+ "(C) They will install it for free.\n";
 		
 	
