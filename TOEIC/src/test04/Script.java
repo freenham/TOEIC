@@ -117,6 +117,10 @@ public class Script {
 				+ "(A) We came early.\n"
 				+ "(B) Okay let's meet after lunch.\n"
 				+ "(C) I'll walk you to your destination.\n";
+		script[30] = "Q. I think I might exercise during lunch break.\n"
+				+ "(A) In about two hours.\n"
+				+ "(B) I'd exercise some occsasion.\n"
+				+ "(C) Will you have enough time?.\n";
 	}
 
 	public String toString() {
