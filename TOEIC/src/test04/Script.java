@@ -25,6 +25,10 @@ public class Script {
 				+ "(B) Some chairs are being lined up across the beach.\n"
 				+ "(C) Some umbrellas have been set up near a pool.\n"
 				+ "(D) Groups of people are gathered on the grass.\n";
+		script[7] = "Q. Why did you go to the manager's office?\n"
+				+ "(A) He's at the post office.\n"
+				+ "(C) We talked about my report.\n"
+				+ "(D) I called him yesterday.\n";
 	}
 
 	public String toString() {
