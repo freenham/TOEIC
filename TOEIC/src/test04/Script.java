@@ -76,7 +76,7 @@ public class Script {
 		script[19] = "Q. Where do we keep ink cartridges for the printer?\n"
 				+ "(A) It is being repaired.\n"
 				+ "(B) Ask Mr.Filp for some.\n"
-				+ "(C) About for curtains\n";
+				+ "(C) About four cartons(작은상자).\n";
 		
 	
 		
