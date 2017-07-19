@@ -12,6 +12,10 @@ public class Script {
 				+ "(B) He's drinking from a fountain(분수).\n"
 				+ "(C) He's emptying water from a bottle.\n"
 				+ "(D) He's turning off a faucet(수도꼭지).\n";
+		script[1] = "(A) They're adjusting some tools.\n"
+				+ "(B) They're pointing at a conveyor belt.\n"
+				+ "(C) They're standing near a machinery.\n"
+				+ "(D) They're carrying some boxes.\n";
 	}
 	
 	public String toString(){
