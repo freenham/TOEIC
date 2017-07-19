@@ -77,10 +77,10 @@ public class Script {
 				+ "(A) It is being repaired.\n"
 				+ "(B) Ask Mr.Filp for some.\n"
 				+ "(C) About four cartons(작은상자).\n";
-		script[20] = "Q. The supermarket doesn't close early on the does it?\n"
+		script[20] = "Q. The supermarket doesn't close early on the weekends, does it?\n"
 				+ "(A) No it stays open until midnight.\n"
-				+ "(B) It was santa 10'o clock.\n"
-				+ "(C) They had some exellence sale.\n";
+				+ "(B) It was sent at 10'o clock.\n"
+				+ "(C) They had some exellent sales.\n";
 	
 		
 	}
