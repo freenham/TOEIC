@@ -14,7 +14,7 @@ public class Script {
 				+ "(D) He's turning off a faucet(수도꼭지).\n";
 		script[1] = "(A) They're adjusting some tools.\n"
 				+ "(B) They're pointing at a conveyor belt.\n"
-				+ "(C) They're standing near a machinery.\n"
+				+ "(C) They're standing near a piece of machinery.\n"
 				+ "(D) They're carrying some boxes.\n";
 	}
 	
