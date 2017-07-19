@@ -57,7 +57,7 @@ public class Script {
 				+ "(A) It will be delivered this afternoon.\n"
 				+ "(B) It is factory machinery.\n"
 				+ "(C) They will install it for free.\n";
-		script[15] = "Q. Don't you find live concert is exicting?\n"
+		script[15] = "Q. Don't you find live concerts exicting?\n"
 				+ "(A) No, I don't mind.\n"
 				+ "(B) Certainly, I love watching them.\n"
 				+ "(C) Many people herad them.\n";
