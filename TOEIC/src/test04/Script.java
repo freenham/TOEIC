@@ -64,7 +64,7 @@ public class Script {
 		script[16] = "Q. Ms.Parker is attending the seminar, isn't she?\n"
 				+ "(A) I thought it was very interesting.\n"
 				+ "(B) I will be attending a meeting next week.\n"
-				+ "(C) No, she decided to keep it.\n";
+				+ "(C) No, she decided to skip it.\n";
 		
 	
 		
