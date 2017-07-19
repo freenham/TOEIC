@@ -61,6 +61,10 @@ public class Script {
 				+ "(A) No, I don't mind.\n"
 				+ "(B) Certainly, I love watching them.\n"
 				+ "(C) Many people herad them.\n";
+		script[16] = "Q. Ms.Parker is attending the seminar, isn't she?\n"
+				+ "(A) I thought it was very interesting.\n"
+				+ "(B) I will be attending a meeting next week.\n"
+				+ "(C) No, she decided to keep it.\n";
 		
 	
 		
