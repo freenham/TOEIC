@@ -16,6 +16,10 @@ public class Script {
 				+ "(B) They're pointing at a conveyor belt.\n"
 				+ "(C) They're standing near a piece of machinery.\n"
 				+ "(D) They're carrying some boxes.\n";
+		script[2] = "(A) He's standing rear of a vehicle.\n"
+				+ "(B) He's setting a tire and to the trunk.\n"
+				+ "(C) He's parking a car in front of a entracnce.\n"
+				+ "(D) He's opening the door for a passanger.\n";
 	}
 	
 	public String toString(){
