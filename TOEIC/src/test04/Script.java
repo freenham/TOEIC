@@ -69,9 +69,9 @@ public class Script {
 				+ "(A) He gave me the papers yesterday.\n"
 				+ "(B) I'm still working on it.\n"
 				+ "(C) He proposed it last month.\n";
-		script[18] = "Q. Now is not a good time to partice home.\n"
+		script[18] = "Q. Now is not a good time to purchase a home.\n"
 				+ "(A) I don't know the time sorry.\n"
-				+ "(B) Will it be better on the phone?\n"
+				+ "(B) Will it be better in the fall?\n"
 				+ "(C) Do I need a receipt?\n";
 		
 	
