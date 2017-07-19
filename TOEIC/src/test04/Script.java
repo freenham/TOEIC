@@ -109,7 +109,10 @@ public class Script {
 				+ "(A) That's my favorite author.\n"
 				+ "(B) Pretty well so far.\n"
 				+ "(C) We're watching it.\n";
-		
+		script[28] = "Q. Can you give an orientation to the new employees on Wendsday? \n"
+				+ "(A) No, I was busy yesterday.\n"
+				+ "(B) Sure I'm free to do it then.\n"
+				+ "(C) In the old office building.\n";
 	}
 
 	public String toString() {
