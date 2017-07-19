@@ -45,6 +45,10 @@ public class Script {
 				+ "(A) We'll know later.\n"
 				+ "(B) About the constrction project\n"
 				+ "(C) There are ten members.\n";
+		script[12] = "Q. When will the partnership be announced?\n"
+				+ "(A) She can't pronounce it.\n"
+				+ "(B) Not until later this month.\n"
+				+ "(C) Everyone must choose a partner.\n";
 	
 		
 	}
