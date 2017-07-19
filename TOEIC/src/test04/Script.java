@@ -115,8 +115,8 @@ public class Script {
 				+ "(C) In the old office building.\n";
 		script[29] = "Q. Why don't we talk about the budget later? \n"
 				+ "(A) We came early.\n"
-				+ "(B) Okay let's meet talk to the lanch.\n"
-				+ "(C) I'll key to your destination.\n";
+				+ "(B) Okay let's meet after lunch.\n"
+				+ "(C) I'll walk you to your destination.\n";
 	}
 
 	public String toString() {
