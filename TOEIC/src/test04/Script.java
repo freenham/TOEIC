@@ -24,6 +24,10 @@ public class Script {
 				+ "(B) Coffee's being poured into cups.\n"
 				+ "(C) One of the woman is delivering the mail.\n"
 				+ "(D) Documents are being printed out.\n";
+		script[5] = "(A) A crew member is painting lines on the road.\n"
+				+ "(B) Windows are being installed in a vehicle.\n"
+				+ "(C) A driver is parking a car on the side of the street.\n"
+				+ "(D) Balconies are situatted above the pillors.\n";
 	}
 	
 	public String toString(){
