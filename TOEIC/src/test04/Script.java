@@ -119,8 +119,12 @@ public class Script {
 				+ "(C) I'll walk you to your destination.\n";
 		script[30] = "Q. I think I might exercise during lunch break.\n"
 				+ "(A) In about two hours.\n"
-				+ "(B) I'd exercise some occsasion.\n"
+				+ "(B) I'd exercise some caution.\n"
 				+ "(C) Will you have enough time?.\n";
+		script[31] = "Q. Why did Mr.Lopez move to another department.\n"
+				+ "(A) Ahead to the department store please.\n"
+				+ "(B) He was promoted.\n"
+				+ "(C) I went the oversea division.\n";
 	}
 
 	public String toString() {
