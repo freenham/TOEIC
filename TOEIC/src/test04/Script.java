@@ -20,8 +20,8 @@ public class Script {
 				+ "(B) He's setting a tire into the trunk.(그는 타이어를 트렁크에 넣고있다.)\n"
 				+ "(C) He's parking a car in front of an entracnce.\n"
 				+ "(D) He's opening the door for a passanger.\n";
-		script[4] = "(A) The women are sitted next to each other.\n"
-				+ "(B) Coffee's being import to cups.\n"
+		script[4] = "(A) The women are seated next to each other.\n"
+				+ "(B) Coffee's being poured into cups.\n"
 				+ "(C) One of the woman is delivering the mail.\n"
 				+ "(D) Documents are being printed out.\n";
 	}
