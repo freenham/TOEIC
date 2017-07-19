@@ -29,6 +29,10 @@ public class Script {
 				+ "(A) He's at the post office.\n"
 				+ "(C) We talked about my report.\n"
 				+ "(D) I called him yesterday.\n";
+		script[8] = "Q. I often go jogging in the park.\n"
+				+ "(A) The shop is opened.\n"
+				+ "(C) He parked his car in the garage.\n"
+				+ "(D) I'd like to join you sometime.\n";
 	}
 
 	public String toString() {
