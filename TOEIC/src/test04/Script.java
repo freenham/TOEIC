@@ -28,6 +28,10 @@ public class Script {
 				+ "(B) Windows are being installed in a vehicle.\n"
 				+ "(C) A driver is parking a car on the side of the street.\n"
 				+ "(D) Balconies are situated above the pillars(기둥).\n";
+		script[6] = "(A) Crowds of swimmers are playing in the waves.\n"
+				+ "(B) Some chairs are being lined up across the beach.\n"
+				+ "(C) Some umbrellas have been set up near a pool.\n"
+				+ "(D) Groups of people are gathered on the grass.\n";
 	}
 	
 	public String toString(){
