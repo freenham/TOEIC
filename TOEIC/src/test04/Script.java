@@ -105,6 +105,10 @@ public class Script {
 				+ "(A) It was a amazing show.\n"
 				+ "(B) I'll devise(창안하다) a plan for you.\n"
 				+ "(C) Yes, they're at our booth.\n";
+		script[27] = "Q. How was bookcrew going?\n"
+				+ "(A) That's my favorite author.\n"
+				+ "(B) Pretty well so far.\n"
+				+ "(C) We're watching it.\n";
 		
 	}
 
