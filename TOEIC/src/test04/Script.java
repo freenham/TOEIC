@@ -94,7 +94,7 @@ public class Script {
 				+ "(B) No it's Thursday.\n"
 				+ "(C) We'd better set a deadline.\n";
 		script[24] = "Q. What should I do with the president's notice?\n"
-				+ "(A) Post his in the bloteen borad.\n"
+				+ "(A) Post it on the bluletin board(전자 게시판).\n"
 				+ "(B) Yes, just in the morning.\n"
 				+ "(C) He wants to complie his notes.\n";
 		
