@@ -103,7 +103,7 @@ public class Script {
 				+ "(C) He's a good conductor.\n";
 		script[26] = "Q. Are these devices on display at the trade show?\n"
 				+ "(A) It was a amazing show.\n"
-				+ "(B) I'll devise a plan for you.\n"
+				+ "(B) I'll devise(창안하다) a plan for you.\n"
 				+ "(C) Yes, they're at our booth.\n";
 		
 	}
