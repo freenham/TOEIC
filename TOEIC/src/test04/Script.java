@@ -73,6 +73,10 @@ public class Script {
 				+ "(A) I don't know the time sorry.\n"
 				+ "(B) Will it be better in the fall?\n"
 				+ "(C) Do I need a receipt?\n";
+		script[19] = "Q. Where do we keep ink cartridges for the printer?\n"
+				+ "(A) It is being repaired.\n"
+				+ "(B) Ask Mr.Filp for some.\n"
+				+ "(C) About for curtains\n";
 		
 	
 		
