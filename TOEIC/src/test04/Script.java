@@ -65,6 +65,10 @@ public class Script {
 				+ "(A) I thought it was very interesting.\n"
 				+ "(B) I will be attending a meeting next week.\n"
 				+ "(C) No, she decided to skip it.\n";
+		script[17] = "Q. Are you going to hand in the proposal tomorrow or is that too soon?\n"
+				+ "(A) He gave me the paper yesterday.\n"
+				+ "(B) I'm still working on it.\n"
+				+ "(C) He proposed at last month.\n";
 		
 	
 		
