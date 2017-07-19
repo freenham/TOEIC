@@ -33,6 +33,10 @@ public class Script {
 				+ "(A) The shop is open.\n"
 				+ "(C) He parked his car in the garage.\n"
 				+ "(D) I'd like to join you sometime.\n";
+		script[9] = "Q. Which room should we host a meeting.\n"
+				+ "(A) I don't think it's a room enough.\n"
+				+ "(C) Do you have a preference?\n"
+				+ "(D) I don't have time to meet her.\n";
 	}
 
 	public String toString() {
