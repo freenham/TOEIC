@@ -85,6 +85,10 @@ public class Script {
 				+ "(A) No, it was a present.\n"
 				+ "(B) Let me check my schedule first.\n"
 				+ "(C) It's about our product.\n";
+		script[22] = "Q. Do you know where I could catch a taxi around here?\n"
+				+ "(A) 12$ to anywhere around city.\n"
+				+ "(B) There's stand across the street.\n"
+				+ "(C) I don't like paying taxes.\n";
 	
 		
 	}
