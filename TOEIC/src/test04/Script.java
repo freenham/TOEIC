@@ -49,6 +49,11 @@ public class Script {
 				+ "(A) She can't pronounce it.\n"
 				+ "(B) Not until later this month.\n"
 				+ "(C) Everyone must choose a partner.\n";
+		script[13] = "Q. Who is allowed into the new facility??\n"
+				+ "(A) By the end of the day.\n"
+				+ "(B) It's open to the public.\n"
+				+ "(C) You have a greate abilities.\n";
+		
 	
 		
 	}
