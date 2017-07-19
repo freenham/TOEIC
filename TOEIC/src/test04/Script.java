@@ -27,20 +27,26 @@ public class Script {
 				+ "(D) Groups of people are gathered on the grass.\n";
 		script[7] = "Q. Why did you go to the manager's office?\n"
 				+ "(A) He's at the post office.\n"
-				+ "(C) We talked about my report.\n"
-				+ "(D) I called him yesterday.\n";
+				+ "(B) We talked about my report.\n"
+				+ "(C) I called him yesterday.\n";
 		script[8] = "Q. I often go jogging in the park.\n"
 				+ "(A) The shop is open.\n"
-				+ "(C) He parked his car in the garage.\n"
-				+ "(D) I'd like to join you sometime.\n";
+				+ "(B) He parked his car in the garage.\n"
+				+ "(C) I'd like to join you sometime.\n";
 		script[9] = "Q. Which room should we host the meeting in?\n"
 				+ "(A) I don't think it's a roomy(넓직한) enough.\n"
-				+ "(C) Do you have a preference?\n"
-				+ "(D) I don't have time to meet her.\n";
+				+ "(B) Do you have a preference?\n"
+				+ "(C) I don't have time to meet her.\n";
 		script[10] = "Q. Tonight is the company's 10th anniversary party.\n"
 				+ "(A) I read the second part.\n"
-				+ "(C) Sometime next year.\n"
-				+ "(D) I'm looking foward to going.\n";
+				+ "(B) Sometime next year.\n"
+				+ "(C) I'm looking foward to going.\n";
+		script[11] = "Q. What's the customer's decision?\n"
+				+ "(A) We'll know later.\n"
+				+ "(B) About the constrction project\n"
+				+ "(C) There are ten members.\n";
+	
+		
 	}
 
 	public String toString() {
