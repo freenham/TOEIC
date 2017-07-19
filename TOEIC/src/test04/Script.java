@@ -81,6 +81,10 @@ public class Script {
 				+ "(A) No it stays open until midnight.\n"
 				+ "(B) It was sent at 10'o clock.\n"
 				+ "(C) They had some exellent sales.\n";
+		script[21] = "Q. Mr.Jacop would you like to present the paper during the convention?\n"
+				+ "(A) No it was a present.\n"
+				+ "(B) Let me check my schedule first.\n"
+				+ "(C) It's about our product.\n";
 	
 		
 	}
