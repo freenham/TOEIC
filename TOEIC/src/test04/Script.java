@@ -27,7 +27,7 @@ public class Script {
 		script[5] = "(A) A crew member is painting lines on the road.\n"
 				+ "(B) Windows are being installed in a vehicle.\n"
 				+ "(C) A driver is parking a car on the side of the street.\n"
-				+ "(D) Balconies are situatted above the pillors.\n";
+				+ "(D) Balconies are situated above the pillars(기둥).\n";
 	}
 	
 	public String toString(){
