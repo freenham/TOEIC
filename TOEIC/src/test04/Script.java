@@ -89,10 +89,10 @@ public class Script {
 				+ "(A) 12$ to anywhere around city.\n"
 				+ "(B) There's stand across the street.\n"
 				+ "(C) I don't like paying taxes.\n";
-		script[23] = "Q. Didn't we extend the deadline?\n"
+		script[23] = "Q. Didn't we extend the deadline until Friday?\n"
 				+ "(A) We're expandind the company.\n"
-				+ "(B) No it's thursday.\n"
-				+ "(C) We better set a deadline.\n";
+				+ "(B) No it's Thursday.\n"
+				+ "(C) We'd better set a deadline.\n";
 	
 		
 	}
