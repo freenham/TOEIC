@@ -125,13 +125,19 @@ public class Script {
 				+ "(A) Head to the department store please.\n"
 				+ "(B) He was promoted.\n"
 				+ "(C) I went to the overseas division.\n";
+		script[32] = "";
+		script[33] = "Q. Why did Mr.Lopez move to another department.\n"
+				+ "(A) Head to the department store please.\n"
+				+ "(B) He was promoted.\n"
+				+ "(C) I went to the overseas division.\n";
 	}
 
 	public String toString() {
 		String s = "";
 		for (int i = 0; i < 100; i++) {
-			if (script[i] != "")
+			if (script[i] != "") {
 				s += i+"번\n"+script[i] + "\n";
+			}
 
 		}
 		return s;
