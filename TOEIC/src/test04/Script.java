@@ -129,6 +129,13 @@ public class Script {
 				+ "\n Actually not only am i going but I'll also be presenting the study that I published in a medical journal six weeks ago."
 				+ "\n Really? That's great. All of lectures planned for the convention seem fascinating."
 				+ "\n I really want to go but the hospital director gave me a project that needs to be finished soon.";
+		script[35] = "Glandar, have you finished compiling the results about customer service?"
+				+ "\n I finished doing most of them. But I stil need to add the results from my origin office."
+				+ "\n I can give you what I have done if you like."
+				+ "\n Okay, but I need to go through all the information before meeting the CEO tomorrow morning."
+				+ "\n Do you think you'll have rest completed by this afternoon"
+				+ "\n My assistance is out today. So I'm doing all the work my self. I don't think it will be ready by then."
+				+ "\n But I probably have everything done by 7'o clock and I can send the result to your email.";
 	}
 
 	public String toString() {
