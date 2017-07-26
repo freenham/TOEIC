@@ -143,7 +143,16 @@ public class Script {
 				+ "\n We only need a few of them to maintain our quota for now."
 				+ "\n In any case, we'll be sending out another sales team in January."
 				+ "\n Good, I hope their negotiations work out better than mine."
-				+ "\n I'll get these contarcts over to finance right now."; 
+				+ "\n I'll get these contarcts over to finance right now.";
+		script[41] = "Our new bakery location in Brooklyn is not profitable enough. "
+				+ "\n Do you have any ideas on how to promote the shop Mr.Shah?"
+				+ "\n You come highly recommanded by former client."
+				+ "\n Well, I think it'd really benefit your business to make use of social media page."
+				+ "\n Hmm. But I'm not really sure how getting people to talk about bakery online "
+				+ "\n would help attract a wider customer base?"
+				+ "\n Well, you could offer discount as rewards the people who follow your page. Once it launches."
+				+ "\n I see. I think that would be helpful for retaining existing customers as well."
+				+ "\n Yes. It's an excellent way to ensure customer loyalty.";
 	}
 
 	public String toString() {
