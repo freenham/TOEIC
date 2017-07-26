@@ -125,11 +125,10 @@ public class Script {
 				+ "(A) Head to the department store please.\n"
 				+ "(B) He was promoted.\n"
 				+ "(C) I went to the overseas division.\n";
-		script[32] = "";
-		script[33] = "Q. Why did Mr.Lopez move to another department.\n"
-				+ "(A) Head to the department store please.\n"
-				+ "(B) He was promoted.\n"
-				+ "(C) I went to the overseas division.\n";
+		script[32] = "Quarrlisa, are you attending the international convention for position in austrailia this March?"
+				+ "\n Actually not only am i going but I'll also be presenting the study that I published in a medical journal six weeks ago."
+				+ "\n Really? That's great. All of lectures plan for the convention seem fascinating."
+				+ "\n I really want to go but the hospital director gave me a project that needs to be finished soon.";
 	}
 
 	public String toString() {
