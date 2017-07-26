@@ -130,12 +130,20 @@ public class Script {
 				+ "\n Really? That's great. All of lectures planned for the convention seem fascinating."
 				+ "\n I really want to go but the hospital director gave me a project that needs to be finished soon.";
 		script[35] = "Glenda, have you finished compiling the results about customer surveys?"
-				+ "\n I've finished doing most of them. But I stil need to add the results from my Asian office."
+				+ "\n I've finished doing most of them. But I stil need to add the results from Asian office."
 				+ "\n I can give you what I have done if you'd like."
 				+ "\n Okay, but I need to go through all the information before meeting the CEO tomorrow morning."
 				+ "\n Do you think you'll have the rest completed by this afternoon"
 				+ "\n My assistance is out today. So I'm doing all the work my self. I don't think it will be ready by then."
 				+ "\n But I probably have everything done by 7'o clock and I can send the result to your email.";
+		script[38] = "Hello, Eranllnda. I heard you just go back from the trip south America. "
+				+ "\n Did you find any new clients?"
+				+ "\n Actually I did. But it took a lot of bargain I thought it would"
+				+ "\n In the end, I only got 6 new contract sighes. That's stil good news."
+				+ "\n We only need a fewer than them to maintain our quarter for now."
+				+ "\n In any case, we'll be sending out another sales in january."
+				+ "\n Good, I hope them negociation work out better than mine."
+				+ "\n I'll get this contarct over the finance right now."; 
 	}
 
 	public String toString() {
