@@ -136,14 +136,14 @@ public class Script {
 				+ "\n Do you think you'll have the rest completed by this afternoon"
 				+ "\n My assistance is out today. So I'm doing all the work my self. I don't think it will be ready by then."
 				+ "\n But I probably have everything done by 7'o clock and I can send the result to your email.";
-		script[38] = "Hello, Eranllnda. I heard you just go back from the trip south America. "
-				+ "\n Did you find any new clients?"
-				+ "\n Actually I did. But it took a lot of bargain I thought it would"
-				+ "\n In the end, I only got 6 new contract sighes. That's stil good news."
-				+ "\n We only need a fewer than them to maintain our quarter for now."
-				+ "\n In any case, we'll be sending out another sales in january."
-				+ "\n Good, I hope them negociation work out better than mine."
-				+ "\n I'll get this contarct over the finance right now."; 
+		script[38] = "Hello, Yolanda. I heard you just got back from a trip South America. "
+				+ "\n Did you find us any new clients?"
+				+ "\n Actually I did. But it took a lot of bargaining I thought it would"
+				+ "\n In the end, I only got 6 new contract sighed. That's still good news."
+				+ "\n We only need a few of them to maintain our quota for now."
+				+ "\n In any case, we'll be sending out another sales team in January."
+				+ "\n Good, I hope their negotiations work out better than mine."
+				+ "\n I'll get these contarcts over to finance right now."; 
 	}
 
 	public String toString() {
